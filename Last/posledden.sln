@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulator", "Array Manipulator\Array Manipulator.csproj", "{FF34429B-B11E-40A2-B876-9212BC9A2444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioactiveBunnies", "RadioactiveBunnies\RadioactiveBunnies.csproj", "{745F96EE-ACD1-475F-9706-84FF82FE3E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shmoogle Counter", "Shmoogle Counter\Shmoogle Counter.csproj", "{6DB271FB-25A5-4DAB-9677-6EB89FA16A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сръбско Unleashed", "Сръбско Unleashed\Сръбско Unleashed.csproj", "{3846B67B-1B31-4757-95F6-E0A608C8EBE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF34429B-B11E-40A2-B876-9212BC9A2444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF34429B-B11E-40A2-B876-9212BC9A2444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF34429B-B11E-40A2-B876-9212BC9A2444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF34429B-B11E-40A2-B876-9212BC9A2444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F96EE-ACD1-475F-9706-84FF82FE3E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F96EE-ACD1-475F-9706-84FF82FE3E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F96EE-ACD1-475F-9706-84FF82FE3E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F96EE-ACD1-475F-9706-84FF82FE3E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB271FB-25A5-4DAB-9677-6EB89FA16A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB271FB-25A5-4DAB-9677-6EB89FA16A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB271FB-25A5-4DAB-9677-6EB89FA16A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB271FB-25A5-4DAB-9677-6EB89FA16A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3846B67B-1B31-4757-95F6-E0A608C8EBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3846B67B-1B31-4757-95F6-E0A608C8EBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3846B67B-1B31-4757-95F6-E0A608C8EBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3846B67B-1B31-4757-95F6-E0A608C8EBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
