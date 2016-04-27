@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Sort Array of Numbers", "Problem 1. Sort Array of Numbers\Problem 1. Sort Array of Numbers.csproj", "{F96834C6-921B-4019-BFF3-5CD53F8050EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. SortArrayUsingSelectionSort", "Problem 2. SortArrayUsingSelectionSort\Problem 2. SortArrayUsingSelectionSort.csproj", "{1217AE4F-F25F-4020-96CD-1D0D0F746361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Categorize Numbers", "Problem 3. Categorize Numbers\Problem 3. Categorize Numbers.csproj", "{CE725623-A5AE-41BD-BA5C-90B4532B9148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Sequences of Equal Strings", "Problem 4. Sequences of Equal Strings\Problem 4. Sequences of Equal Strings.csproj", "{347D14F2-C7F1-4B4F-AA95-57A12CBD8A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Longest Increasing Sequence", "Problem 5. Longest Increasing Sequence\Problem 5. Longest Increasing Sequence.csproj", "{61D9BFB4-35D6-4B09-B36A-48C537E9EE91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Subset Sums", "Problem 6. Subset Sums\Problem 6. Subset Sums.csproj", "{17B39C43-581C-4445-8160-6CA18E05E4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7.  Sorted Subset Sums", "Problem 7.  Sorted Subset Sums\Problem 7.  Sorted Subset Sums.csproj", "{8BA512BA-3825-48F5-BD23-41BCDC88479D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8.Lego Blocks", "Problem 8.Lego Blocks\Problem 8.Lego Blocks.csproj", "{E11D50C2-346D-4181-91C9-EECE55263481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. Stuck Numbers", "Problem 9. Stuck Numbers\Problem 9. Stuck Numbers.csproj", "{3856B4F4-EB91-4372-8C50-E74CCDA125FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. Pythagorean Numbers", "Problem 10. Pythagorean Numbers\Problem 10. Pythagorean Numbers.csproj", "{056856D8-B372-47FC-A395-93DD4FAF1BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96834C6-921B-4019-BFF3-5CD53F8050EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96834C6-921B-4019-BFF3-5CD53F8050EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96834C6-921B-4019-BFF3-5CD53F8050EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96834C6-921B-4019-BFF3-5CD53F8050EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1217AE4F-F25F-4020-96CD-1D0D0F746361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1217AE4F-F25F-4020-96CD-1D0D0F746361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1217AE4F-F25F-4020-96CD-1D0D0F746361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1217AE4F-F25F-4020-96CD-1D0D0F746361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE725623-A5AE-41BD-BA5C-90B4532B9148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE725623-A5AE-41BD-BA5C-90B4532B9148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE725623-A5AE-41BD-BA5C-90B4532B9148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE725623-A5AE-41BD-BA5C-90B4532B9148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347D14F2-C7F1-4B4F-AA95-57A12CBD8A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347D14F2-C7F1-4B4F-AA95-57A12CBD8A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347D14F2-C7F1-4B4F-AA95-57A12CBD8A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347D14F2-C7F1-4B4F-AA95-57A12CBD8A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D9BFB4-35D6-4B09-B36A-48C537E9EE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D9BFB4-35D6-4B09-B36A-48C537E9EE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D9BFB4-35D6-4B09-B36A-48C537E9EE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D9BFB4-35D6-4B09-B36A-48C537E9EE91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B39C43-581C-4445-8160-6CA18E05E4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B39C43-581C-4445-8160-6CA18E05E4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B39C43-581C-4445-8160-6CA18E05E4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B39C43-581C-4445-8160-6CA18E05E4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA512BA-3825-48F5-BD23-41BCDC88479D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA512BA-3825-48F5-BD23-41BCDC88479D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA512BA-3825-48F5-BD23-41BCDC88479D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA512BA-3825-48F5-BD23-41BCDC88479D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11D50C2-346D-4181-91C9-EECE55263481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11D50C2-346D-4181-91C9-EECE55263481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11D50C2-346D-4181-91C9-EECE55263481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11D50C2-346D-4181-91C9-EECE55263481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3856B4F4-EB91-4372-8C50-E74CCDA125FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3856B4F4-EB91-4372-8C50-E74CCDA125FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3856B4F4-EB91-4372-8C50-E74CCDA125FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3856B4F4-EB91-4372-8C50-E74CCDA125FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056856D8-B372-47FC-A395-93DD4FAF1BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056856D8-B372-47FC-A395-93DD4FAF1BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056856D8-B372-47FC-A395-93DD4FAF1BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056856D8-B372-47FC-A395-93DD4FAF1BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
